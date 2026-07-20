@@ -14,8 +14,6 @@ The application extracts structured job information and exports the results into
 
 # 📖 Overview
 
-This project was built as part of my Python learning journey to practice the fundamentals of **Web Scraping**.
-
 It demonstrates how to:
 
 - Download webpages with HTTP requests
@@ -41,9 +39,9 @@ It demonstrates how to:
 
 ---
 
-# 🤖 Technologies
+# 🤖 Requirements
 
-- Python 3
+- Python 3.13+
 - Requests
 - BeautifulSoup4
 - CSV (Python Standard Library)
@@ -209,27 +207,9 @@ This project helped me practice:
 
 ---
 
-# ⏩ Future Improvements
-
-Possible enhancements include:
-
-- JSON export
-- SQLite database support
-- Logging
-- Unit tests with pytest
-- Command-line interface (CLI)
-- Pagination support
-- Docker support
-
----
-
 # 🌐 Data Source
 
-The project uses the educational website:
-
-https://realpython.github.io/fake-jobs/
-
-The website was created specifically for learning web scraping techniques.
+The project uses the educational website: https://realpython.github.io/fake-jobs/
 
 ---
 
@@ -250,27 +230,20 @@ This project is licensed under the MIT License.
 
 ---
 
-❗ Notes: 
+🤝🏻 Acknowledgements: 
 
 This project was inspired by the **Python Job Listings Scraper** challenge from roadmap.sh.
 
 The implementation, code structure, and documentation in this repository were developed independently as part of my learning journey.
 
-This project depends on the availability of the Fake Python Jobs website. If the website is temporarily unavailable, the GitHub Actions workflow may fail even though the code is correct.
+---
+
+❗ Note: This project depends on the availability of the Fake Python Jobs website. If the website is temporarily unavailable, the GitHub Actions workflow may fail even though the code is correct.
 
 ---
 
 # 👩🏻‍💻 Author
 
-Developed by Bianca Gasparino de Campos as part of my software development portfolio.
-
-I'm currently focused on learning:
-
-- Python
-- Backend Development
-- APIs
-- Automation
-- Web Scraping
-- Software Engineering
+Bianca Gasparino de Campos
 
 Thank you for visiting this repository!
