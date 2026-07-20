@@ -264,7 +264,13 @@ This project is licensed under the MIT License.
 
 ---
 
-Note: This project depends on the availability of the Fake Python Jobs website. If the website is temporarily unavailable, the GitHub Actions workflow may fail even though the code is correct.
+❗ Notes: 
+
+This project was inspired by the **Python Job Listings Scraper** challenge from roadmap.sh.
+
+The implementation, code structure, and documentation in this repository were developed independently as part of my learning journey.
+
+This project depends on the availability of the Fake Python Jobs website. If the website is temporarily unavailable, the GitHub Actions workflow may fail even though the code is correct.
 
 ---
 
