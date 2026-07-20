@@ -251,6 +251,10 @@ This project is licensed under the MIT License.
 
 ---
 
+Note: This project depends on the availability of the Fake Python Jobs website. If the website is temporarily unavailable, the GitHub Actions workflow may fail even though the code is correct.
+
+---
+
 # 👩🏻‍💻 Author
 
 Developed by Bianca Gasparino de Campos as part of my software development portfolio.
