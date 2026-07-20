@@ -143,6 +143,19 @@ The repository already includes a sample output file so visitors can quickly see
 | Location | Job location |
 | URL | Job detail page |
 
+# 📸 Example Output
+
+After running the scraper, a CSV file is generated with the extracted job listings.
+
+# 📸 Terminal
+
+![Terminal](screenshots/terminal.png)
+
+# 📄 Generated CSV
+
+![CSV Output](screenshots/output.png)
+
+
 ---
 
 # 💡 How It Works
