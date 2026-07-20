@@ -147,11 +147,11 @@ The repository already includes a sample output file so visitors can quickly see
 
 After running the scraper, a CSV file is generated with the extracted job listings.
 
-# 📸 Terminal
+# 🔳 Terminal
 
 ![Terminal](screenshots/terminal.png)
 
-# 📄 Generated CSV
+# 🧾 Generated CSV
 
 ![CSV Output](screenshots/output.png)
 
