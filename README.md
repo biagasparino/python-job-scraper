@@ -77,7 +77,7 @@ python-job-scraper/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-job-scraper.git
+git clone https://github.com/biagasparino/python-job-scraper.git
 ```
 
 Navigate to the project folder:
@@ -230,20 +230,6 @@ The project uses the educational website:
 https://realpython.github.io/fake-jobs/
 
 The website was created specifically for learning web scraping techniques.
-
----
-
-# 🖥️ Example Output
-
-You can add a screenshot here after uploading one to:
-
-```text
-screenshots/output.png
-```
-
-```markdown
-![CSV Output](screenshots/output.png)
-```
 
 ---
 
